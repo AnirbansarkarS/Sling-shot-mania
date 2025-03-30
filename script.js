@@ -6,7 +6,7 @@
         background.src = "background.jpg";
         
         let slingshotImg = new Image();
-        slingshotImg.src = "Slingshot.png";
+        slingshotImg.src = "slingshot.png";
         
         let target = { x: 700, y: 350, width: 40, height: 40 };
         
@@ -146,4 +146,6 @@
         }
         
         gameLoop();
+    
+
     
