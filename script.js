@@ -2,7 +2,7 @@ const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
 
 let background = new Image();
-background.src = "background.jpg";
+background.src = "https://www.angrybirdsnest.com/wp-content/uploads/hm_bbpui/244697/3vrvdofv18nptp961tk9m223t75c20v6.png";
 background.onload = () => {
   console.log("Background image loaded.");
 };
