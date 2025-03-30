@@ -1,0 +1,26 @@
+
+body {
+   text-align: center; }
+
+canvas { 
+  background-image:url("https://wallpaper-house.com/data/out/8/wallpaper2you_226436.jpg");
+  background-repeat: no-repeat; 
+  background-position:bottom;
+  border: 2px solid black; }
+
+
+  #restartBtn {
+   color: black;
+   background-color: aqua;
+   margin-top: 10px;
+   padding: 10px;
+   font-size: 16px;
+   cursor: pointer;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#restartBtn:hover{
+   background-color: coral;
+}
