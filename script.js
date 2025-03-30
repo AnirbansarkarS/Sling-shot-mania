@@ -8,7 +8,7 @@ background.onload = () => {
 };
 
 let slingshotImg = new Image();
-slingshotImg.src = "slingshot.png";
+slingshotImg.src = uri("https://www.clipartmax.com/png/small/199-1996347_elder-amethyst-slingshot-angry-birds-2-slingshot.png");
 slingshotImg.onload = () => {
   console.log("Slingshot image loaded.");
 };
